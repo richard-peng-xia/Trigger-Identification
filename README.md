@@ -1,6 +1,6 @@
-﻿
 
-﻿﻿# Intruction for The Implementation of Trigger Identification
+
+# Intruction for The Implementation of Trigger Identification
 
 ## File Structure
 
