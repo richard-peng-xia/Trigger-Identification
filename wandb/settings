@@ -1,0 +1,5 @@
+[default]
+entity = richardxp888
+project = trigger_identification
+base_url = https://api.wandb.ai
+
