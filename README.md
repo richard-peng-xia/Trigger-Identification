@@ -1,9 +1,9 @@
-
+This repository stores the code, my sharing report and slide of trigger identification task on [Shanghai-HK Interdisciplinary Shared Tasks (2022)](https://fudan-disc.com/sharedtask/social22/). [workshop](http://fudan-disc.com/resource_social22/data/program.pdf)
 
 # Intruction for The Implementation of Trigger Identification
 
 ## File Structure
-
+```
 ├── `config.py`: file to hold parameters
 ├── `data.py`: file to process data
 ├── `data_trigger` : directory to hold raw data
@@ -29,7 +29,7 @@
 │   └── abbreviation.json
 ├── `trigger_identification.ipynb`: jupyter implementation to show how the code works
 └── `utils.py`: file of utilities such as pytorch_lightning tools and evaluation tools
-
+```
 ## Dependencies
 
 ```
