@@ -1,4 +1,4 @@
-This repository stores the code, my sharing report and slide of trigger identification task on [Shanghai-HK Interdisciplinary Shared Tasks (2022)](https://fudan-disc.com/sharedtask/social22/). [workshop](http://fudan-disc.com/resource_social22/data/program.pdf)
+This repository stores the code, my sharing report and slide of trigger identification task on [Shanghai-HK Interdisciplinary Shared Tasks (2022)](https://fudan-disc.com/sharedtask/social22/). [[workshop]](http://fudan-disc.com/resource_social22/data/program.pdf)
 
 # Intruction for The Implementation of Trigger Identification
 
