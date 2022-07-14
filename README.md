@@ -9,7 +9,6 @@ This repository stores the code, my sharing report and slide of task 1 `trigger 
 ├── `data_trigger` : directory to hold raw data
 │   ├── test1.csv
 │   ├── test2.csv25nl25jklkjkl0
-0
 │   ├── train.csv
 │   └── val.csv
 ├── `main.py`: file to run the main program
